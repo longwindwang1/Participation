@@ -1,0 +1,7 @@
+The rigging process mainly involves the following steps:
+1. Select the first joint, set it as the center, and add the first bone.
+2. Select the center of the connection point for the next joint, and extend the first bone to the second joint.
+3. Continue in this manner until all bones are created.
+4. Attach these bones to the parts created during modeling.
+
+I think the easiest part is creating the bones for each body part. The most difficult part is attaching the parts to the bones.
